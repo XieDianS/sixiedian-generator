@@ -59,10 +59,6 @@
 
 1. pom.xml： 项目信息——名称、作者、描述
 2. application.yml: MySQL端口号、数据库名称、用户名、密码
-<<<<<<< HEAD
 3. data.sql、shema.sql: 数据库名称、表格名称
 
 其他目录文件， 原样复制
-=======
-3. data.sql、shema.sql: 数据库名称、表格名称
->>>>>>> 31c43cbaa0aac45a37fcd895f36188d8ed8e30c9
